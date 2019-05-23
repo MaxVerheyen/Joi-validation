@@ -8,7 +8,7 @@ Joi Tutorial
 
 Joi Documentation
 
-* https://github.com/hapijs/joi/blob/v15.0.3/API.md#stringalphanum
+* https://github.com/hapijs/joi/blob/v15.0.3/API.md
 
 ## @Hapi/Joi ##
 Joi was originally built by Hapi.js team as a plugin to support object schema validation within the Hapi framework.
