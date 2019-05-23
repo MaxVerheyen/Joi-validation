@@ -4,6 +4,7 @@ Whenever a user sends data in a request, it is important to validate the input. 
 Joi Tutorial
 
 * https://github.com/SecuringTheStack/tutorials/tree/master/ep18-input-validation-with-joi-part1
+* https://www.youtube.com/watch?v=HkNdG7d_LAI&t=2s
 
 Joi Documentation
 
@@ -16,6 +17,7 @@ It provides body, query and URL params validation in Hapi.js. Adding validation 
 Hapi Vs Express
 
 * https://raygun.com/blog/hapi-vs-express/
+* https://www.youtube.com/watch?v=2lprC0yYeFw
 
 Celebrate for Joi + Express
 * https://medium.com/@adambretz/time-to-celebrate-27ccfc656d7f
